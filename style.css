@@ -10,6 +10,10 @@ h1 {
     text-align: center
 }
 
+h2 {
+    text-align: center;
+}
+
 p {
     text-align: center
 }
@@ -20,4 +24,8 @@ p {
 
 em strong {
     color: red
+}
+
+.itens {
+    font-style: italic;
 }
