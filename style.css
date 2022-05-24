@@ -6,7 +6,7 @@ body {
     width: 100%;
 }
 
-h1 {
+.sobreBarbearia {
     text-align: center
 }
 
@@ -26,6 +26,16 @@ em strong {
     color: red
 }
 
+ul {
+    display: inline-block;
+    vertical-align: top;
+}
+
 .itens {
     font-style: italic;
+}
+
+.imagemBeneficios {
+    margin-left: 15%;
+    width: 50%;
 }
